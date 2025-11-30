@@ -1,0 +1,134 @@
+[
+    { 
+        "id": 1, 
+        "nom": "Ouedraogo", 
+        "prenom": "Bouchra", 
+        "photo": "image3" ,
+        "telephone":"70 43 84 75",
+        "filiere": "Réseaux et Système"
+    },
+    
+    { 
+        "id": 2, 
+        "nom": "Maré", 
+        "prenom": "Richard",  
+        "photo": "image2",
+        "telephone":"70 43 84 75",
+        "filiere": "Réseaux et Système" 
+    },
+
+    { 
+        "id": 3, 
+        "nom": "Millogo", 
+        "prenom": "Augustin",
+        "photo": "image2",
+        "telephone":"70 43 84 75",
+        "filiere": "Réseaux et Système"
+    },
+
+    { 
+        "id": 4, 
+        "nom": "Maré", 
+        "prenom": "Richard", 
+        "photo": "image1",
+        "telephone":"70 43 84 75",
+        "filiere": "Réseaux et Système" 
+    },
+
+    { 
+        "id": 5, 
+        "nom": "Naba", 
+        "prenom": "Clother", 
+        "photo": "image4",
+        "telephone":"70 43 84 75",
+        "filiere": "Génie Logiciel"
+    },
+
+    { 
+        "id": 6, 
+        "nom": "Ouedraogo", 
+        "prenom": "Bouchra", 
+        "photo": "image5",
+        "telephone":"70 43 84 75",
+        "filiere": "Réseaux et Système"
+    },
+
+    { 
+        "id": 7, 
+        "nom": "Tapsoba", 
+        "prenom": "Ashnat",
+        "photo": "image6",
+        "telephone":"70 43 84 75",
+        "filiere": "Réseaux et Système"
+    },
+
+    { 
+        "id": 8, 
+        "nom": "Fandié ", 
+        "prenom": "Yombissé",  
+        "image": "image4",
+        "telephone":"70 43 84 75",
+        "filiere": "Réseaux et Système"
+    },
+
+    { 
+        "id": 9, 
+        "nom": "Naba", 
+        "prenom": "Clother", 
+        "photo": "image3",
+        "telephone":"70 43 84 75",
+        "filiere": "Réseaux et Système" 
+    },
+    { 
+        "id": 10, 
+        "nom": "Dupont", 
+        "prenom": "Alice", 
+        "photo": "image6",
+        "telephone":"70 43 84 75",
+        "filiere": "Réseaux et Système"
+    },
+
+    { 
+        "id": 11, 
+        "nom": "Millogo", 
+        "prenom": "Augustin",
+        "image": "image5",
+        "telephone":"70 43 84 75",
+        "filiere": "Réseaux et Système"
+    },
+
+    { 
+        "id": 12, 
+        "nom": "Naganda", 
+        "prenom": "Carelle",  
+        "photo": "image3",
+        "telephone":"70 43 84 75",
+        "filiere": "Réseaux et Système"
+    },
+    { 
+        "id": 13, 
+        "nom": "Naganda", 
+        "prenom": "Carelle", 
+        "photo": "image6",
+        "telephone":"70 43 84 75",
+        "filiere": "Réseaux et Système"
+    },
+
+    { 
+        "id": 14, 
+        "nom": "Naganda", 
+        "prenom": "Carelle", 
+        "image": "image5",
+        "telephone":"70 43 84 75",
+        "filiere": "Réseaux et Système"
+    },
+
+    { 
+        "id": 15, 
+        "nom": "Millogo", 
+        "prenom": "Augustin",
+        "photo": "image3",
+        "telephone":"70 43 84 75",
+        "filiere": "Réseaux et Système" 
+    }
+]

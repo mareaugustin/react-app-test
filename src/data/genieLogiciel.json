@@ -1,0 +1,161 @@
+[
+    { 
+        "id": 1, 
+        "nom": "Millogo", 
+        "prenom": "Augustin", 
+        "photo": "image3",
+        "telephone":"70 43 84 75",
+        "filiere": "Génie Logiciel"
+    },
+    
+    { 
+        "id": 2, 
+        "nom": "Maré", 
+        "prenom": "Richard", 
+        "photo": "image2" ,
+        "telephone":"70 43 84 75",
+        "filiere": "Génie Logiciel"
+    },
+
+    { 
+        "id": 3, 
+        "nom": "Fandié", 
+        "prenom": "Alice", 
+        "photo": "image2",
+        "telephone":"70 43 84 75",
+        "filiere": "Génie Logiciel"
+    },
+
+    { 
+        "id": 4, 
+        "nom": "Ouedraogo", 
+        "prenom": "Bouchra", 
+        "photo": "image1",
+        "telephone":"70 43 84 75",
+        "filiere": "Génie Logiciel" 
+    },
+
+    { 
+        "id": 5, 
+        "nom": "Naba", 
+        "prenom": "Clother", 
+        "photo": "image4",
+        "telephone":"70 43 84 75",
+        "filiere": "Génie Logiciel"
+    },
+
+    { 
+        "id": 6, 
+        "nom": "Naganda", 
+        "prenom": "Carelle", 
+        "photo": "image5",
+        "telephone":"70 43 84 75",
+        "filiere": "Génie Logiciel"
+    },
+
+    { 
+        "id": 7, 
+        "nom": "Tapsoba", 
+        "prenom": "Ashnat", 
+        "photo": "image6",
+        "telephone":"70 43 84 75",
+        "filiere": "Génie Logiciel"
+    },
+
+    { 
+        "id": 8, 
+        "nom": "Ouedraogo", 
+        "prenom": "Koudouss", 
+        "image": "image5",
+        "telephone":"70 43 84 75",
+        "filiere": "Génie Logiciel"
+    },
+
+    { 
+        "id": 9, 
+        "nom": "Tapsoba", 
+        "prenom": "Ashnat", 
+        "photo": "image3",
+        "telephone":"70 43 84 75",
+        "filiere": "Génie Logiciel" 
+    },
+    { 
+        "id": 10, 
+        "nom": "Fandié ", 
+        "prenom": "Yombissé",  
+        "photo": "image6",
+        "telephone":"70 43 84 75",
+        "filiere": "Génie Logiciel"
+    },
+
+    { 
+        "id": 11, 
+        "nom": "Maré", 
+        "prenom": "Richard", 
+        "image": "image5",
+        "telephone":"70 43 84 75",
+        "filiere": "Génie Logiciel"
+    },
+
+    { 
+        "id": 12, 
+        "nom": "Maré", 
+        "prenom": "Millogo", 
+        "photo": "image3",
+        "telephone":"70 43 84 75",
+        "filiere": "Génie Logiciel" 
+    },
+    { 
+        "id": 13, 
+        "nom": "Maré", 
+        "prenom": "Augustin", 
+        "photo": "image6",
+        "telephone":"70 43 84 75",
+        "filiere": "Génie Logiciel"
+    },
+
+    { 
+        "id": 14, 
+        "nom": "Ouedraogo", 
+        "prenom": "Bouchra",
+        "image": "image5",
+        "telephone":"70 43 84 75",
+        "filiere": "Génie Logiciel"
+    },
+
+    { 
+        "id": 15, 
+        "nom": "Naba", 
+        "prenom": "Clother", 
+        "photo": "image3",
+        "telephone":"70 43 84 75",
+        "filiere": "Génie Logiciel" 
+    },
+
+    { 
+        "id": 16, 
+        "nom": "Millogo", 
+        "prenom": "Augustin", 
+        "photo": "image6",
+        "telephone":"70 43 84 75",
+        "filiere": "Génie Logiciel"
+    },
+
+    { 
+        "id": 17,  
+        "nom": "Millogo", 
+        "prenom": "Augustin", 
+        "image": "image3",
+        "telephone":"70 43 84 75",
+        "filiere": "Génie Logiciel"
+    },
+
+    { 
+        "id": 18, 
+        "nom": "Ouedraogo", 
+        "prenom": "Bouchra", 
+        "photo": "image3",
+        "telephone":"70 43 84 75",
+        "filiere": "Génie Logiciel" 
+    }
+]
