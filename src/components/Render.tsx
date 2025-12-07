@@ -27,7 +27,7 @@ export default function RenduDeLaListe({item}){
             <View style={styles.row}>
                 
                 <ImageProfil source={images[item.photo]} style={styles.photo} />
-                <View>
+                <View style={styles.container}>
                     <Label labelStyle={styles.name} text={item.nom}/>
                     <Label labelStyle={styles.prenom} text={item.prenom}/>
                 </View>
@@ -66,6 +66,9 @@ const styles = StyleSheet.create({
         borderBottomWidth: 0.5, 
         borderColor: "#ddd" 
     },
+    container:{
+        flexDirection: 'row'
+    },
     photo: { 
         width: 44, 
         height: 44, 
@@ -73,11 +76,11 @@ const styles = StyleSheet.create({
         marginRight: 10, 
     },
     name: { 
-        fontSize: 16, 
+        fontSize: 18, 
         fontWeight: "500" 
     },
     prenom: { 
-        fontSize: 15, 
+        fontSize: 18, 
        
         color: "#555" 
     },
