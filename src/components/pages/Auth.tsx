@@ -5,6 +5,7 @@ import Label from "../ui/Label";
 import BoutonDeConnexion from "../ui/Button";
 import { View, StyleSheet, Alert, Text } from "react-native";
 import ListEtudiant from "./ListEtudiant";
+import Filiere from "./ListFiliere";
 
 
 export default function Auth(){
@@ -29,7 +30,7 @@ export default function Auth(){
         <>
         {connexionreussie ?(
             Alert.alert('Connexion réussie'),
-            <ListEtudiant />
+            <Filiere />
         ):(
 
              <ImageDeFond source={require('../../assets/images/logo.jpg')} style={styles.image}>

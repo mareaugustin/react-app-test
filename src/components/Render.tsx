@@ -44,7 +44,7 @@ export default function RenduDeLaListe({item}){
                 textNom={"Nom :"}
                 textPrenom={"Prénom :"}
                 textTel={"Telephone :"}
-                textFiliere={"Filière :"}
+                textFiliere={"Spécialité :"}
                 valueNom={person.nom}
                 valuePrenom={person.prenom}
                 valueTel={person.telephone}
@@ -65,6 +65,7 @@ const styles = StyleSheet.create({
         paddingVertical: 8, 
         borderBottomWidth: 0.5, 
         borderColor: "#ddd" 
+        
     },
     container:{
         flexDirection: 'row'

@@ -24,10 +24,6 @@ export default function ListEtudiant(){
         "Réseaux et Système": []
     })
 
-    // useEffect (()=>{
-    //     setGenieLogiciel(genieLogiciel)
-    //     setReseau(reseauSysteme)
-    // }, [])
 
     useEffect (()=>{
 
